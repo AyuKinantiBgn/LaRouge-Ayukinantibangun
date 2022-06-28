@@ -1,0 +1,163 @@
+.navbar-brand{
+    font-family: 'poppins';
+    font-weight: 700;
+    font-size: 20px;
+    color: rgb(173, 50, 50) !important;
+    font-style: italic;
+}
+
+.nav-item{
+    font-weight: 600;
+    color: #760101 !important;
+}
+
+.nav-link {
+    color: rgb(249, 249, 249) !important;
+    font-family: poppins;
+    font-weight: 500;
+    font-size: 18px;
+    font-style: italic;
+
+}
+
+.nav-link:hover {
+    color: #d50d0d !important;
+}
+.fa-solid {
+    color: #9e0909;
+}
+
+.fa-circle-heart {
+
+    color: #d50d0d;
+
+}
+
+.form-control {
+    color: #eee9e9;
+    padding-left: auto;
+}
+
+
+.h2 {
+    color: #ffffff;
+}
+
+.img-categories{
+    width: 500px;
+
+}
+
+.img-yaya{
+    width: 150px;
+}
+
+.penjelasan {
+
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-weight: 400;
+    font-family: poppins;
+    font-style: italic;
+}
+
+.see {
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    font-weight: 400;
+    font-family: poppins;
+    font-style: italic;
+}
+
+.keranjang{
+    color: #ffffff;
+
+}
+
+.kate{
+
+    color: rgb(255, 255, 255);
+    font-family: poppins;
+    font-weight: 800;
+    font-style: italic;
+}
+
+.img-yay {
+    width: 150px;
+    height: 227px;
+}
+.img-ya {
+    width: 150px;
+    height: 227px;
+}
+
+.uu{
+    width: 250px;
+    height: 400px;
+}
+
+.kotak {
+    color: #ffffff;
+    background-color: #760101;
+}
+
+.aa{
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: 500;
+    font-family: poppins;
+    font-style: italic;
+}
+
+.fa-brands {
+    width: 80px;
+}
+
+
+.navbar-brand1 {
+    color: brown;
+    font-weight: 600px;
+
+}
+
+.nav-link1 {
+    color: rgb(249, 249, 249) !important;
+    font-family: poppins;
+    font-weight: 500;
+    font-size: 20px;
+    font-style: italic;
+}
+
+
+.beat{
+    width: 400px;
+
+}
+
+.card-text {
+    font-family: poppins;
+    font-style: normal;
+    color: #ffffff;
+    font-size: 10px;
+}
+
+.Man {
+    font-size: 20px ;
+    font-weight: 500;
+    color: #ffffff;
+    font-family: poppins ;
+    font-style: italic;
+}
+
+
+.Y {
+    color: #ffffff;
+}
+
+.table{
+    color: #ffffff;
+}
+
+.nav-item {
+    font-size: 20px;
+}
